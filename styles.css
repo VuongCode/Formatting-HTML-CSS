@@ -1,0 +1,26 @@
+header {
+  background-color: orange;
+}
+p {
+  color: white;
+  font-weight: 550;
+  font-size: 25px;
+  font-family: Verdana;
+}
+span {
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+  margin: 250px;
+  font-family: Times;
+}
+img {
+  width: 250px;
+  height: 200px;
+}
+h2 {
+  font-weight: bold;
+}
+h3 {
+  font-weight: bold;
+}
